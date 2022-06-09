@@ -1,0 +1,69 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+d-block w-100{
+	width: 570px;
+	height: 300px;
+}
+carousel-item active{
+	width: 570px;
+	height: 300px;
+}
+.img-thumbnail{
+	width: 300px;
+	height: 300px;
+	float: right;
+}
+.card-group{
+	margin-bottom: 80px;
+}
+form{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.navbar-brand{
+	display: flex;
+	justify-content: center;
+	width: 10%;
+}
+.card-img-top{
+	height: 400px;
+	width: 500px;
+}
+footer{
+	display: flex;
+	color: #2596be;
+	justify-content: center;
+}
+.Galery{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	align-items: center;
+}
+.Galery h3{
+	margin: 50px;
+}
+.foto img{
+	width: 550px;
+	height:auto;
+	margin-bottom: 50px;
+}
+.foto {
+	padding-right: 10%;
+	padding-left: 10%;
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+footer div{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 50px; 
+}
+
+
